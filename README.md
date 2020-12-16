@@ -10,7 +10,7 @@
     <br />
     Created with CodeSandbox
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://product-view.vercel.app/">View Demo</a>
 </p>
 
 <!-- ABOUT THE PROJECT -->
@@ -79,3 +79,14 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Thank you!
+
+<div>
+   <p> 
+    thank you for your patience to read this far! if possible, give a star!
+   </p> 
+   <img src="readme-assets/logo.png" alt="Logo" width="95" height="100">
+</div
+
+
