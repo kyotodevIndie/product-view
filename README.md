@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
    <p> 
     thank you for your patience to read this far! if possible, give a star!
    </p> 
-   <img src="readme-assets/logo.png" alt="Logo" width="95" height="100">
+   <img src="readme-assets/1.gif" alt="Logo" width="95" height="100">
 </div
 
 
