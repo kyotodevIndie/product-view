@@ -1,6 +1,6 @@
  <p align="center">
  <a href="https://github.com/kyotodevindie">
-    <img src="readme-assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="readme-assets/logo.png" alt="Logo" width="80" height="100">
   </a>
 
   <h1 align="center">Product View</h1>
@@ -18,7 +18,7 @@
 
 ## About The Project
 
-<img src="readme-assets/1.png" alt="print 1" width="150" height="300">
+<img src="readme-assets/1.png" alt="print 1" width="200" height="300">
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
