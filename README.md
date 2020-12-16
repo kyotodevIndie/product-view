@@ -1,6 +1,6 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
+# product-view
+Created with CodeSandbox
+
   <a href="https://github.com/kyotodevIndie/default-repository">
     <img src="assets/hello.gif" alt="Logo" width="80" height="80">
   </a>
