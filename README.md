@@ -2,16 +2,15 @@
  <a href="https://github.com/kyotodevindie">
     <img src="readme-assets/logo.png" alt="Logo" width="95" height="100">
   </a>
-
+</p>
   <h1 align="center">Product View</h1>
 
-  <p>
+  <p align="center">
     A personal project with react to show products
     <br />
     Created with CodeSandbox
     <br />
     <a href="#">View Demo</a>
-  </p>
 </p>
 
 <!-- ABOUT THE PROJECT -->
