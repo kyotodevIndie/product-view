@@ -6,7 +6,7 @@
   <h1 align="center">Product View</h1>
 
   <p align="center">
-    A personal project with react to show products
+    A personal project with react to show products, using the Ranekapi from <a href="https://www.origamid.com/">Origamid</a>
     <br />
     Created with CodeSandbox
     <br />
@@ -47,7 +47,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 1. Clone the repo
 
 ```sh
-git clone https://github.com/kyotodevindie/product-view.git
+git clone https://github.com/kyotodevIndie/product-view.git
 ```
 
 3. Install the packages using NPM or Yanr
