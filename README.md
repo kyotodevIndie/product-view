@@ -6,7 +6,7 @@
   <h1 align="center">Product View</h1>
 
   <p align="center">
-    A personal project with react to show products, using the Ranekapi from <a href="https://www.origamid.com/">Origamid</a>
+    A personal project with react to show products, using the Ranek API from <a href="https://www.origamid.com/">Origamid</a>
     <br />
     Created with CodeSandbox
     <br />
