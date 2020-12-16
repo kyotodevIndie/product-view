@@ -1,5 +1,3 @@
-# product-view
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -7,7 +5,7 @@
     <img src="assets/hello.gif" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Product View</h3>
+  <h1 align="center">Product View</h1>
 
   <p align="center">
     A personal project with react to show products
