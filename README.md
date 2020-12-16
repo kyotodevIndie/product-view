@@ -17,7 +17,7 @@
 
 ## About The Project
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; border-radius: 0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem;">
  
 <img src="readme-assets/1.png"  alt="print 1" width="300" height="300">
 <img src="readme-assets/2.png"  alt="print 2" width="300" height="300">
@@ -82,7 +82,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Thank you!
 
-<div>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem;">
    <p> 
     thank you for your patience to read this far! if possible, give a star!
    </p> 
