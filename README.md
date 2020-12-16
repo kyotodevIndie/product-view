@@ -1,10 +1,11 @@
+ <p align="center">
  <a href="https://github.com/kyotodevindie">
     <img src="readme-assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">Product View</h1>
 
-  <p align="center">
+  <p>
     A personal project with react to show products
     <br />
     Created with CodeSandbox
