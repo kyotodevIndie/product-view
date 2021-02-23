@@ -38,7 +38,7 @@
 git clone https://github.com/kyotodevIndie/product-view.git
 ```
 
-3. Install the packages using NPM or Yanr
+2. Install the packages using NPM or Yanr
 
 ```sh
 yarn install
@@ -48,7 +48,7 @@ yarn install
 npm install
 ```
 
-4. Happy coding!
+3. Happy coding!
 
 <!-- CONTRIBUTING -->
 
