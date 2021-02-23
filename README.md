@@ -15,7 +15,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## Prints
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem;">
  
@@ -24,8 +24,6 @@
 <img src="readme-assets/3.png"  alt="print 3" width="300" height="300">
 
 </div>
-
-I did this project to deepen my studies in react, react router and module.css
 
 ### Built With
 
