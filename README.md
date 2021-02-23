@@ -41,7 +41,7 @@ git clone https://github.com/kyotodevIndie/product-view.git
 2. Install the packages using NPM or Yanr
 
 ```sh
-yarn install
+yarn
 ```
 
 ```sh
